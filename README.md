@@ -1,1 +1,1 @@
-# plant-detecton
+# plant-disease-detecton
